@@ -1,5 +1,17 @@
 # Popularity Prediction Framework
 
+### Citation
+
+If you use our work, please cite our paper [**Prediction for the Newsroom: Which Articles Will Get the Most Comments?**](https://github.com/julian-risch/NAACL2018/raw/master/ambroselli2018prediction.pdf) as follows:
+
+    @inproceedings{ambroselli2018prediction,
+    author = {Ambroselli, Carl and Risch, Julian and Krestel, Ralf and Loos, Andreas},
+    booktitle = {Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+    pages = {193-199},
+    title = {Prediction for the Newsroom: Which Articles Will Get the Most Comments?},
+    year = {2018}
+    }
+
 ### Start the framework
 1. Clone the repository: `git clone https://github.com/CarlAmbroselli/Popularity_Predictor`
 2. Open repository: `cd Popularity_Predictor`
