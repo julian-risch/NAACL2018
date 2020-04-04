@@ -2,7 +2,7 @@
 
 ### Citation
 
-If you use our work, please cite our paper [**Prediction for the Newsroom: Which Articles Will Get the Most Comments?**](https://github.com/julian-risch/NAACL2018/raw/master/ambroselli2018prediction.pdf) as follows:
+If you use our work, please cite our paper [**Prediction for the Newsroom: Which Articles Will Get the Most Comments?**](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/people/risch/ambroselli2018prediction.pdf) as follows:
 
     @inproceedings{ambroselli2018prediction,
     author = {Ambroselli, Carl and Risch, Julian and Krestel, Ralf and Loos, Andreas},
